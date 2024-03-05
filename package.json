@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
+    "hsl-to-rgb": "^1.0.0",
+    "web-audio-api": "^0.2.2",
     "wikari": "^0.1.0",
     "youtube-audio-stream": "^0.3.61",
     "yt-get": "^1.1.2"
